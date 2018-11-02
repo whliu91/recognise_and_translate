@@ -13,9 +13,20 @@ You would need to unzip the training data for your language to
 
 You would need to add Tesseract Binary to system path variable
 
-You would need Visual C++ 9.0 to build youdao
-
 ## python packages
-Pillow
-pytesseract
-translate
+- Pillow
+- pytesseract
+- translate
+
+## Test results
+
+```
+(venv) E:\work\python\translator\recognise_and_translate>python src\test\python\testbench.py
+translate result:
+你好可爱
+you should be rated as top 10 cutest Chinese men
+
+translate result:
+可以陪我睡觉吗
+Can I sleep with me?
+```
