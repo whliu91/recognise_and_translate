@@ -18,4 +18,4 @@ You would need Visual C++ 9.0 to build youdao
 ## python packages
 Pillow
 pytesseract
-youdao
+translate
